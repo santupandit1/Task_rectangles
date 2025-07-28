@@ -1,4 +1,3 @@
-#print("i love you baby girl, i want to kiss your tummy and eat you \"meow\"")
 #🔹 
 '''
 1. Conditionals & Loops (Control Flow)
