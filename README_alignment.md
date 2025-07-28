@@ -35,9 +35,6 @@ pip install opencv-python numpy
 🚀 Usage
 Clone the repository and navigate into the project folder.
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/Task_rectangles.git
 cd Task_rectangles
 Add your input image as rectangles.png in the project directory.
