@@ -34,9 +34,6 @@ Place your image as rectangles.png in the project directory.
 
 Run the script:
 
-bash
-Copy
-Edit
 python rectangle_numbering.py
 The output image ranked_rectangles_by_internal_line_length.png will be saved and displayed.
 
